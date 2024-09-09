@@ -1,4 +1,4 @@
-# Nexoro HR Consulting Dashboard
+# Nexoro HR Consulting Analysis
 
 ## Table of Contents
 - [About Project](#About-Project)
